@@ -8,5 +8,7 @@ public class TeamFour {
 	System.out.println("Marvin Push 1");
 	System.out.println("Marvin Push 2");
 	
+	System.out.println("Shaolin push");
+	
 	}
 }
