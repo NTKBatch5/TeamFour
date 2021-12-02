@@ -38,6 +38,8 @@ public class teamFourCommit{
 		
 //super
 		
-	
+	public static void getMonth(String name) {
+		System.out.println("Aleady december");
+	}
 	}
 }
