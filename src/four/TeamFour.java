@@ -40,6 +40,7 @@ public class teamFourCommit{
 		
 	public static void getMonth(String name) {
 		System.out.println("Aleady december");
+		System.out.println("Happy New Year 2022");
 	}
 	}
 }
