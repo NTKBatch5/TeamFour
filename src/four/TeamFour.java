@@ -14,7 +14,8 @@ public class TeamFour {
 		System.out.println("Fieruz");
 
 		System.out.println("Ariana push1");
-
+		
+		System.out.println("Marvin ------- 12/1/21");
 	
 	System.out.println(" push2 Fieruz");
 	
@@ -23,6 +24,17 @@ public class TeamFour {
 	
 public class teamFourCommit{
 	String name= "Fieruz";
+		public teamFourCommit() {
+			// TODO Auto-generated constructor stub
+		}
+		@Override
+		protected Object clone() throws CloneNotSupportedException {
+			// TODO Auto-generated method stub
+			return super.clone();
+		}
 		
+//super
+		
+	
 	}
 }
