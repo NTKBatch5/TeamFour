@@ -21,6 +21,8 @@ public class TeamFour {
 	System.out.println(" push2 Fieruz");
 	
 	System.out.println("Hello, Push 2 by Ariana");
+	
+	System.out.println("Making a change");
 	}
 	
 public class teamFourCommit{
@@ -36,6 +38,9 @@ public class teamFourCommit{
 		
 //super
 		
-	
+	public static void getMonth(String name) {
+		System.out.println("Aleady december");
+		System.out.println("Happy New Year 2022");
+	}
 	}
 }
