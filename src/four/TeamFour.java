@@ -20,6 +20,8 @@ public class TeamFour {
 	System.out.println(" push2 Fieruz");
 	
 	System.out.println("Hello, Push 2 by Ariana");
+	
+	System.out.println("Making a change");
 	}
 	
 public class teamFourCommit{
